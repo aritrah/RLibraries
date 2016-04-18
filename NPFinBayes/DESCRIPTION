@@ -1,0 +1,10 @@
+Package: CompFin
+Type: Package
+Title: Statistical Methods in Computational Finance.
+Version: 0.1
+Date: 2015-10-16
+Author: Aritra Halder <aritrah@cmi.ac.in>, Dr. Sourish Das <sourish@cmi.ac.in>
+Maintainer: Aritra Halder <aritrah@cmi.ac.in>
+Description: A collection of statistical methods applicable in Computational Finance.
+License: GPL-2 | GPL-3
+LazyData: TRUE
